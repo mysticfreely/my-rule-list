@@ -1,0 +1,9 @@
+# NAME: Tailscale
+# UPDATED: 2026-03-09
+
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN,controlplane.tailscale.com
+DOMAIN,log.tailscale.com
+DOMAIN,log.tailscale.io
+DOMAIN,derp.tailscale.com
