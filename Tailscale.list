@@ -1,5 +1,5 @@
 # NAME: Tailscale
-# UPDATED: 2026-03-09
+# UPDATED: 2026-08-02
 
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
@@ -7,3 +7,5 @@ DOMAIN,controlplane.tailscale.com
 DOMAIN,log.tailscale.com
 DOMAIN,log.tailscale.io
 DOMAIN,derp.tailscale.com
+IP-CIDR,139.155.156.6/32,no-resolve
+IP-CIDR,47.109.42.49/32,no-resolve
